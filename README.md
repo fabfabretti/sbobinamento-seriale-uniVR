@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by] 
+
 # sbobinamento-seriale-uniVR
 
 Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :) 
