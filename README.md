@@ -1,4 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by] 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # sbobinamento-seriale-uniVR
 
