@@ -1,6 +1,5 @@
  [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
 # sbobinamento-seriale-uniVR
 
 Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :) 
@@ -19,16 +18,34 @@ Inoltre, le ho fatte principalmente per me stessa; questo significa che:
 
 Ho usato Word ~~take that puristi di Latex~~, quindi **carico appositamente i .docx per permettere a chiunque voglia di integrarle con più materiale e/o correggere errori**. :)
 
-## "requirements.txt"
+## Coming soon
 
-L'equivalente del requirements.txt sarebbero i font che ho usato; in teoria dovrebbero essere embeddati nei file .docx, ma per sicurezza listo qui di seguito i font necessari a una visualizzazione corretta.
+A breve dovrei aggiungere le sbobine di **Sistemi Informativi Aziendali (2020/21)**.
 
-* Corpo: **Source Sans Pro**
+In seguito lavorerò anche Software Security, Big Data e Applicazioni dinamiche per il web.
 
-* Titoli H1: **Bebas Neue** 
+## To-do e contribuire al progetto
 
-* Altri titoli: **Nunito Light**
+ Per rendere questa collezione più completa e usabile, sarebbero necessarie le seguenti modifiche - che però non attuerò, in quanto riguardano corsi che ho già passato:
 
-* Codice: **Jetbrains Mono**
+* **Aggiornamento dello stile per le sbobine antecedenti al 2021/22**
 
-*Nota: questo si applica alle sbobine a partire dall'anno 2021/22; le sbobine precedenti non avevano ancora uno stile decente, scusate!*
+* Revisione dei typo più seria e sistematica
+
+* Eventualmente, ridisignare le immagini screeshottate
+
+Se qualcun* avesse voglia di contribuire vi invito a fare una merge request, possibilmente anche aggiornando i render .pdf relativi ai sorgenti modificati ^-^
+
+### "requirements.txt"
+
+Listo qui di seguito i font necessari a una visualizzazione corretta.
+
+- Corpo: **Source Sans Pro**
+
+- Titoli H1: **Bebas Neue**
+
+- Altri titoli: **Nunito Light**
+
+- Codice: **Jetbrains Mono**
+
+*Nota: al momento le sbobine precedenti all'anno accademico 2021/22 non sono state adeguate allo stile "standard".*
