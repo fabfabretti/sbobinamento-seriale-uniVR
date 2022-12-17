@@ -20,9 +20,7 @@ Ho usato Word ~~take that puristi di Latex~~, quindi **carico appositamente i .d
 
 ## Coming soon
 
-A breve dovrei aggiungere le sbobine di **Sistemi Informativi Aziendali (2020/21)**.
-
-In seguito lavorerò anche Software Security, Big Data e Applicazioni dinamiche per il web.
+Le sbobine di Sistemi Informativi Aziendali sono complete. Non sono sicura di fare Big Data, sicuramente farò Software Security; in questo momento sto lavorando a delle sbobine di Genetica che non interesseranno a nessuno fuor che a me, sorry.
 
 ## To-do e contribuire al progetto
 
