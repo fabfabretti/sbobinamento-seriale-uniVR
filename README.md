@@ -1,4 +1,16 @@
- [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+<p align="center">
+ <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="CC BY-SA 4.0"/>
+
+</p>
+
+
+
+| :warning: **ATTENZIONE: Avviso sulle sbobine di Sistemi Informativi Aziendali**          |
+|:---------------------------|
+| So che la professoressa di Sistemi Informativi Aziendali ha lamentato che "una dispensa che gira" ha delle definizioni sbagliate. Non so se si riferisse alla mia, e non so se ne girino altre altre oltre alla mia; io con quella sbobina ho preso 30L, ma penso sia più che giusto avvisare eventuali utenti che pensavano di usarle. **Procedete a vostro rischio e pericolo... ma soprattutto se sapete quali sarebbero le definizioni sbagliate SCRIVETEMI, così io posso correggere T_T**    |
+
 
 # sbobinamento-seriale-uniVR
 
@@ -20,9 +32,12 @@ Ho usato Word ~~take that puristi di Latex~~, quindi **carico appositamente i .d
 
 ## Coming soon
 
-Le sbobine di Sistemi Informativi Aziendali sono complete. Non sono sicura di fare Big Data, sicuramente farò Software Security; in questo momento sto lavorando a delle sbobine di Genetica che non interesseranno a nessuno fuor che a me, sorry.
+A breve aggiungerò le sbobine per Software Security, e in seguito dovrei lavorare su quelle di Big Data.
 
 ## To-do e contribuire al progetto
+
+> **Note**
+> Al momento le sbobine precedenti all'anno accademico 2021/22 non sono state adeguate allo stile "standard".
 
  Per rendere questa collezione più completa e usabile, sarebbero necessarie le seguenti modifiche - che però non attuerò, in quanto riguardano corsi che ho già passato:
 
@@ -45,5 +60,3 @@ Listo qui di seguito i font necessari a una visualizzazione corretta.
 - Altri titoli: **Nunito Light**
 
 - Codice: **Jetbrains Mono**
-
-*Nota: al momento le sbobine precedenti all'anno accademico 2021/22 non sono state adeguate allo stile "standard".*
