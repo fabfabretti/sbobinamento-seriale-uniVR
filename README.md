@@ -1,20 +1,16 @@
 
-
 <p align="center">
  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="CC BY-SA 4.0"/>
 
-</p>
-
-
-
-| :warning: **ATTENZIONE: Avviso sulle sbobine di Sistemi Informativi Aziendali**          |
-|:---------------------------|
-| So che la professoressa di Sistemi Informativi Aziendali ha lamentato che "una dispensa che gira" ha delle definizioni sbagliate. Non so se si riferisse alla mia, e non so se ne girino altre altre oltre alla mia; io con quella sbobina ho preso 30L, ma penso sia più che giusto avvisare eventuali utenti che pensavano di usarle. **Procedete a vostro rischio e pericolo... ma soprattutto se sapete quali sarebbero le definizioni sbagliate SCRIVETEMI, così io posso correggere T_T**    |
-
-
 # sbobinamento-seriale-uniVR
 
-Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :) 
+Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :)
+
+</p>
+
+| :warning: **ATTENZIONE: Avviso sulle sbobine di Sistemi Informativi Aziendali**                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| So che la professoressa di Sistemi Informativi Aziendali ha lamentato che "una dispensa che gira" ha delle definizioni sbagliate. Non so se si riferisse alla mia, e non so se ne girino altre altre oltre alla mia; io con quella sbobina ho preso 30L, ma penso sia più che giusto avvisare eventuali utenti che pensavano di usarle. **Procedete a vostro rischio e pericolo... ma soprattutto se sapete quali sarebbero le definizioni sbagliate SCRIVETEMI, così io posso correggere T_T** |
 
 ## Intenti
 
