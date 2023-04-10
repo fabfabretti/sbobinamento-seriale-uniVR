@@ -1,4 +1,3 @@
-
 <p align="center">
  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="CC BY-SA 4.0"/>
 
@@ -28,7 +27,7 @@ Ho usato Word ~~take that puristi di Latex~~, quindi **carico appositamente i .d
 
 ## Coming soon
 
-A breve aggiungerò le sbobine per Software Security, e in seguito dovrei lavorare su quelle di Big Data.
+Non appena avrò dato l'orale di Software Security dovrei ritornare a lavorare su Big Data e/o iniziare Fondamenti di analisi del software e Programmazione Grafica.
 
 ## To-do e contribuire al progetto
 
