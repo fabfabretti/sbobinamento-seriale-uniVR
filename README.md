@@ -23,7 +23,7 @@ Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :)
 
 ## Intenti
 
-Le mie sbobine cercano di essere il più complete possibili **rispetto a quello che lə professorə dice in classe**, quindi nella maggior parte dei casi non ci sono integrazioni con libri o altro materiale. 
+Le mie sbobine cercano di essere il più complete possibili **rispetto a quello che l professor dice in classe**, quindi nella maggior parte dei casi non ci sono integrazioni con libri o altro materiale. 
 
 Inoltre, le ho fatte principalmente per me stessa; questo significa che:
 
@@ -52,7 +52,7 @@ Non appena avrò dato l'orale di Software Security dovrei ritornare a lavorare s
 
 * Eventualmente, ridisignare le immagini screeshottate
 
-Se qualcun* avesse voglia di contribuire vi invito a fare una merge request, possibilmente anche aggiornando i render .pdf relativi ai sorgenti modificati ^-^
+Se qualcun avesse voglia di contribuire vi invito a fare una merge request, possibilmente anche aggiornando i render .pdf relativi ai sorgenti modificati ^-^
 
 ### "requirements.txt"
 
