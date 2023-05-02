@@ -11,6 +11,16 @@ Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :)
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | So che la professoressa di Sistemi Informativi Aziendali ha lamentato che "una dispensa che gira" ha delle definizioni sbagliate. Non so se si riferisse alla mia, e non so se ne girino altre altre oltre alla mia; io con quella sbobina ho preso 30L, ma penso sia più che giusto avvisare eventuali utenti che pensavano di usarle. **Procedete a vostro rischio e pericolo... ma soprattutto se sapete quali sarebbero le definizioni sbagliate SCRIVETEMI, così io posso correggere T_T** |
 
+## Screnshots
+ <div style="color:blue;overflow: scroll;white-space: nowrap;">
+ <img width="30%" src="/Screenshots/6.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/2.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/3.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/1.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/5.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/4.png" alt="screenshot by me. CC BY-SA 4.0"/>
+</div> 
+
 ## Intenti
 
 Le mie sbobine cercano di essere il più complete possibili **rispetto a quello che lə professorə dice in classe**, quindi nella maggior parte dei casi non ci sono integrazioni con libri o altro materiale. 
