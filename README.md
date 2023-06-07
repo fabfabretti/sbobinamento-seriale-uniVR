@@ -37,7 +37,8 @@ Ho usato Word ~~take that puristi di Latex~~, quindi **carico appositamente i .d
 
 ## Coming soon
 
-Non appena avrò dato l'orale di Software Security dovrei ritornare a lavorare su Big Data e/o iniziare Fondamenti di analisi del software e Programmazione Grafica.
+* Current WIP: Analisi e verifica del software (sono più o meno a metà), piccole correzioni per Software Security 
+* Next up: Big Data, Programmazione Grafica
 
 ## To-do e contribuire al progetto
 
