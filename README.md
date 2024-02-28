@@ -1,11 +1,14 @@
 <p align="center">
  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="CC BY-SA 4.0"/>
+ 
+![image](https://img.shields.io/badge/new-34A853) Aggiunta Analisi e verifica del software!
 
 # sbobinamento-seriale-uniVR
 
 Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :)
 
 </p>
+
 
 | :warning: **ATTENZIONE: Avviso sulle sbobine di Sistemi Informativi Aziendali**                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,8 +40,7 @@ Ho usato Word ~~take that puristi di Latex~~, quindi **carico appositamente i .d
 
 ## Coming soon
 
-* Current WIP: Analisi e verifica del software (sono più o meno a metà), piccole correzioni per Software Security 
-* Next up: Big Data, Programmazione Grafica
+* Next up: Big Data, Data Mining
 
 ## To-do e contribuire al progetto
 
