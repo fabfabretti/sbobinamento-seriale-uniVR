@@ -1,7 +1,6 @@
 <p align="center">
  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="CC BY-SA 4.0"/>
- 
-![image](https://img.shields.io/badge/new-34A853) Aggiunta Analisi e verifica del software!
+
 
 # sbobinamento-seriale-uniVR
 
@@ -38,9 +37,6 @@ Inoltre, le ho fatte principalmente per me stessa; questo significa che:
 
 Ho usato Word ~~take that puristi di Latex~~, quindi **carico appositamente i .docx per permettere a chiunque voglia di integrarle con più materiale e/o correggere errori**. :)
 
-## Coming soon
-
-* Next up: Big Data, Data Mining
 
 ## To-do e contribuire al progetto
 
