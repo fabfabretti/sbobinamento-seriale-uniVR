@@ -1,13 +1,13 @@
 <p align="center">
  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="CC BY-SA 4.0"/>
-
+</br>
+<a href='https://ko-fi.com/U6U5VVG1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 # sbobinamento-seriale-uniVR
 
 Lascio ai posteri il risultato del mio bisogno esistenziale di sbobinare. :)
 
 </p>
-
 
 | :warning: **ATTENZIONE: Avviso sulle sbobine di Sistemi Informativi Aziendali**                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
